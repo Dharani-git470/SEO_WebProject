@@ -1,0 +1,150 @@
+.st-5 {
+  /* border: 5px solid; */
+  width: 100%;
+  padding-bottom: 120px;
+  margin-top: 60px;
+  background-color: #f8f9fa;
+}
+.st-5 .outer2 {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+}
+.st-5 .outer2 div {
+  /* border: 2px solid saddlebrown; */
+  width: 55%;
+  text-align: center;
+  padding-top: 100px;
+}
+.st-5 div h3 {
+  font-weight: bold;
+}
+.st-5 div p {
+  margin-top: 10px;
+  font-size: 0.9rem;
+  color: #848484;
+  font-weight: 300;
+}
+
+.outer3 {
+  /* border: 5px solid; */
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-top: 50px;
+  overflow: hidden;
+}
+
+.lay1 {
+  width: 80%;
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.same1 {
+  width: 32%;
+  border: 1px solid #e5e5e5;
+  padding: 30px 25px;
+  font-size: 1.1rem;
+  box-shadow: 0px 0px 1px grey;
+  border-radius: 5px;
+}
+.same1:hover {
+  border-color: #081158;
+}
+.same1 div p {
+  color: #7c7c7d;
+  font-size: 1.2rem;
+  font-weight: 300;
+}
+
+.same2 {
+  width: 100%;
+  margin-top: 30px;
+  display: flex;
+}
+.same3 {
+  margin-left: 25px;
+}
+.same3 h3 {
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300 !important;
+  color: #000000;
+  font-size: 1.1rem;
+}
+.same3 h4 {
+  font-family: "Open Sans", sans-serif;
+  margin-top: 3px;
+  font-size: 0.8rem;
+  color: #b2b2b2;
+  font-weight: 500;
+}
+.img4 {
+  height: 40px;
+  width: 40px;
+}
+.same1 .img4 img {
+  height: 100%;
+  width: 100%;
+  border-radius: 50px;
+}
+.st-6 {
+  margin-bottom: 200px;
+  display: flex;
+  justify-content: center;
+  /* border: 5px solid saddlebrown; */
+}
+
+.st-6 .outer4 {
+  /* border: 5px solid; */
+  width: 80%;
+  display: flex;
+  justify-content: space-between;
+  /* align-items: center; */
+}
+
+.st-6 div .s-1 {
+  width: 34%;
+}
+
+#cos-1 h5 {
+  font-weight: bold;
+}
+#cos-1 p {
+  margin-top: 15px;
+  color: #7c7c7d;
+  font-size: 0.9rem;
+  font-weight: 400;
+}
+#cos-1 ul {
+  margin-top: 15px;
+}
+#cos-1 ul li {
+  list-style: none;
+  color: #7c7c7d;
+  font-size: 0.9rem;
+  font-weight: 400;
+  margin-top: 10px;
+  background-repeat: no-repeat;
+  background-position: left center;
+}
+.s-4 ul li:nth-child(1) {
+  background-image: url("./Photos/e1.png");
+  padding-left: 25px;
+}
+.s-4 ul li:nth-child(2) {
+  background-image: url("./Photos/c1.png");
+  padding-left: 25px;
+}
+.s-4 ul li:nth-child(3) {
+  background-image: url("./Photos/l1.png");
+  padding-left: 25px;
+}
+#cos-1 img {
+  margin-top: 20px;
+}
+.imgs {
+  height: 30px;
+}
